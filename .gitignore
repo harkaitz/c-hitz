@@ -1,0 +1,11 @@
+build
+flycheck.el
+## -- BLOCK:c --
+*.o
+*.a
+*.so
+*.so.*
+TAGS
+FLYCHECK
+## -- BLOCK:c --
+test_hitz
